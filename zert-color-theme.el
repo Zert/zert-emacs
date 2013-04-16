@@ -7,7 +7,7 @@
       (background-mode . dark)
       (border-color . "#000000")
       (cursor-color . "#355f35")
-      (foreground-color . "#999999")
+      (foreground-color . "color-109")
       (mouse-color . "black"))
      (default ((t (nil))))
      (bold ((t (:bold t :foreground "cyan" :weight bold))))
